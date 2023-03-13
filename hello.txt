@@ -13,3 +13,4 @@ hi Git
 hi Git
 hi Git 
 hello Git 3 (master)
+hello Git 3 (hot-fix)
